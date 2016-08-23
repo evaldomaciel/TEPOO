@@ -4,7 +4,7 @@ public class Calculadora {
     public static void main(String[] args) {
 		
 		double valor1 = 0;
-        double valor2 = 0;
+        	double valor2 = 0;
 		char operador = ' ';
 		double resultado = 0;
 		
